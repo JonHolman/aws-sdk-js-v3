@@ -21,7 +21,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@smithy/eventstream-serde-universal": "^1.0.1",
+    "@smithy/eventstream-serde-universal": "^2.0.11",
     "tslib": "^2.5.0"
   },
   "devDependencies": {
