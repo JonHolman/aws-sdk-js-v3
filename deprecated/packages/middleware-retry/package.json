@@ -24,7 +24,7 @@
   "dependencies": {
     "@smithy/middleware-retry": "^1.0.3",
     "tslib": "^2.5.0",
-    "uuid": "^8.3.2"
+    "uuid": "^9.0.1"
   },
   "devDependencies": {
     "@aws-sdk/node-config-provider": "*",
