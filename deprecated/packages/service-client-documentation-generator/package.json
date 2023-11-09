@@ -24,7 +24,7 @@
     "typedocplugin"
   ],
   "dependencies": {
-    "@smithy/service-client-documentation-generator": "^1.0.1",
+    "@smithy/service-client-documentation-generator": "^2.0.0",
     "tslib": "^2.5.0"
   },
   "devDependencies": {
