@@ -21,7 +21,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "@smithy/middleware-content-length": "^1.0.1",
+    "@smithy/middleware-content-length": "^2.0.13",
     "tslib": "^2.5.0"
   },
   "engines": {
